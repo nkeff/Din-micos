@@ -1,3 +1,7 @@
 # dinamicos
 
-A description of this project.
+Gnome Desktop Wallpaper Management Application
+
+## previev
+
+![main window](./data/screenshots/main.png)

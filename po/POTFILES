@@ -1,0 +1,6 @@
+data/ru.art.Dinamicos.desktop.in
+data/ru.art.Dinamicos.metainfo.xml.in
+data/ru.art.Dinamicos.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
